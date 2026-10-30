@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="KCEngine/KCEngine.csproj" />
+  <Project Path="TestGame/TestGame.csproj" />
 </Solution>
