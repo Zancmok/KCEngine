@@ -57,6 +57,11 @@ public abstract class Instance
 
         Parent = parent;
     }
+
+    internal Instance(string name)
+    {
+        Name = name;
+    }
     
     private List<Instance> _children = [];
     
